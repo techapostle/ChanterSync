@@ -1,0 +1,18 @@
+[submodule "ChanterUI"]
+	path = ChanterUI
+	url = git@github.com:techapostle/ChanterUI.git
+[submodule "ChanterGateway"]
+	path = ChanterGateway
+	url = git@github.com:techapostle/ChanterGateway.git
+[submodule "ChanterAuth"]
+	path = ChanterAuth
+	url = git@github.com:techapostle/ChanterAuth.git
+[submodule "ChanterCore"]
+	path = ChanterCore
+	url = git@github.com:techapostle/ChanterCore.git
+[submodule "ChanterWorkers"]
+	path = ChanterWorkers
+	url = git@github.com:techapostle/ChanterWorkers.git
+[submodule "ChanterInfra"]
+	path = ChanterInfra
+	url = git@github.com:techapostle/ChanterInfra.git
