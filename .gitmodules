@@ -1,18 +1,24 @@
 [submodule "ChanterUI"]
 	path = ChanterUI
 	url = git@github.com:techapostle/ChanterUI.git
+	branch = main
 [submodule "ChanterGateway"]
 	path = ChanterGateway
 	url = git@github.com:techapostle/ChanterGateway.git
+	branch = main
 [submodule "ChanterAuth"]
 	path = ChanterAuth
 	url = git@github.com:techapostle/ChanterAuth.git
+	branch = main
 [submodule "ChanterCore"]
 	path = ChanterCore
 	url = git@github.com:techapostle/ChanterCore.git
+	branch = main
 [submodule "ChanterWorkers"]
 	path = ChanterWorkers
 	url = git@github.com:techapostle/ChanterWorkers.git
+	branch = main
 [submodule "ChanterInfra"]
 	path = ChanterInfra
 	url = git@github.com:techapostle/ChanterInfra.git
+	branch = main
